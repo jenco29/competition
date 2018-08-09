@@ -70,7 +70,7 @@ h3 {
 }
 
 h4 {
-  font-size: 50px;
+  font-size: 75px;
   font-family: "Blackadder ITC";
 }
 
@@ -163,11 +163,4 @@ div.desc {
 
   margin-left:150px;
 
-}
-
-.list{
-  li {
-    font-family: "Agency FB";
-    font-size: 50px;
-  }
 }
