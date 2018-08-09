@@ -150,14 +150,17 @@ div.desc {
 }
 
 .box3 {
-  margin-left: 55px;
+  margin-left: 75px;
   width: 250px;
   background-color: #DCEDC8;
   border: 2px solid #C5E1A5;
   padding-left: 10px;
   padding-top: 5px;
+  margin-right: 75px;
 }
 
-.right{
-  margin-right: 10px;
+.jtron{
+
+  margin-left:150px;
+
 }
