@@ -164,3 +164,10 @@ div.desc {
   margin-left:150px;
 
 }
+
+.list{
+  li {
+    font-family: "Agency FB";
+    font-size: 50px;
+  }
+}
